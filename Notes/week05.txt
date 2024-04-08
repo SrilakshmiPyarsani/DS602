@@ -1,0 +1,5 @@
+Homework: Good Work
+Lab: Q5, Q6 Code Error
+hw: 100
+lab: 60
+
