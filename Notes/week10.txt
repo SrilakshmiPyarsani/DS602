@@ -1,0 +1,5 @@
+Homework - Good Work with Findings and Explanation
+Lab - Good work
+
+hw: 100
+lab: 25
